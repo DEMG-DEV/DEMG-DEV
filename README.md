@@ -36,7 +36,7 @@ Developer mostly in .NET technologies but also in other languages like Python, J
 
 <p>
     <a target="_blank"href="https://dev.to/demg_dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="https://hashnode.com/@retrogemu"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://retrogemu-dev.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
 
 </p>
 
