@@ -18,7 +18,7 @@ Developer mostly in .NET technologies but also in other languages like Python, J
 
   [<img src="assets/facebook.svg" style="width:50px;fill:#0866FF;"></img>](https://www.facebook.com/dev.demg) &nbsp;
   [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Retrogemu_) &nbsp;
-  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://twitter.com/Retrogemu_) &nbsp;
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/retrogemu_/) &nbsp;
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/david-mendez-guardado/) &nbsp;
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hack.master.m@gmail.com?subject=Hello%20David,%20From%20Github)
   [<img src="assets/microsoftoutlook.svg" style="width:50px;fill:#0078D4;"></img>](mailto:demg@outlook.com?subject=Hello%20David,%20From%20Github) &nbsp;
