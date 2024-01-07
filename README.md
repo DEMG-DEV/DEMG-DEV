@@ -6,6 +6,8 @@
 
 ## About
 
+Developer mostly in .NET technologies but also in other languages like Python, Java, Javascript, etc. I'll try to become on a leader in developemnt and teach the new generation this great carrier.
+
 - 🔭 I’m currently working on [YouTapIt](https://www.youtapitcard.com/) and [Integra & H. Consulting](https://www.ihconsulting.mx/)
 - 🌱 I’m currently learning **Artificial Intelligence with python**
 - 😄 Pronouns: **Retrogemu_**, **David**
