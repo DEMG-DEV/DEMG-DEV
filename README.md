@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+  ![kshyun28's GitHub Profile Header](assets/header.gif)
+
+  [![Facebook]()](https://twitter.com/Retrogemu_) &nbsp;
+  [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Retrogemu_) &nbsp;
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://twitter.com/Retrogemu_) &nbsp;
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/david-mendez-guardado/) &nbsp;
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hack.master.m@gmail.com?subject=Hello%20David,%20From%20Github)
+</div>
 
 <!--
 **DEMG-DEV/DEMG-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
