@@ -16,12 +16,24 @@ Developer mostly in .NET technologies but also in other languages like Python, J
 
 <div align="center">
 
-  [<img src="assets/facebook.svg" style="width:50px;fill:#0866FF;"></img>](https://www.facebook.com/dev.demg) &nbsp;
-  [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Retrogemu_) &nbsp;
-  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/retrogemu_/) &nbsp;
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/david-mendez-guardado/) &nbsp;
-  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hack.master.m@gmail.com?subject=Hello%20David,%20From%20Github)
-  [<img src="assets/microsoftoutlook.svg" style="width:50px;fill:#0078D4;"></img>](mailto:demg@outlook.com?subject=Hello%20David,%20From%20Github) &nbsp;
+<style>
+.img-fb {
+  background-color: #0866FF;
+  width:50px;
+}
+
+.img-em {
+  background-color: #0078D4;
+  width:50px;
+}
+</style>
+
+[<img src="assets/facebook.svg" class="img-fb"></img>](https://www.facebook.com/dev.demg) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Retrogemu_) &nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/retrogemu_/) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/david-mendez-guardado/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hack.master.m@gmail.com?subject=Hello%20David,%20From%20Github)
+[<img src="assets/microsoftoutlook.svg" class="img-em"></img>](mailto:demg@outlook.com?subject=Hello%20David,%20From%20Github) &nbsp;
 </div>
 
 ## 💻 My Tech Stack
@@ -35,17 +47,17 @@ Developer mostly in .NET technologies but also in other languages like Python, J
 ## 📖 Read My Blogs
 
 <p>
-    <a target="_blank"href="https://dev.to/demg_dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="https://retrogemu-dev.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://dev.to/demg_dev"><img height=50 src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://retrogemu-dev.hashnode.dev/"><img height=50 src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
 
 </p>
 
 ## 🏆 My Stats
 
 <p>
-    <img height=175 src="https://github-readme-stats.vercel.app/api?username=DEMG-DEV&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;&nbsp;
-    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEMG-DEV&layout=donut&theme=tokyonight" />&nbsp;&nbsp;
-    <img height=175 src="https://github-readme-stats.vercel.app/api/wakatime/?username=Retrogemu_&theme=tokyonight" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api?username=DEMG-DEV&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=21600" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEMG-DEV&layout=donut&theme=tokyonight&cache_seconds=21600" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api/wakatime/?username=Retrogemu_&theme=tokyonight&cache_seconds=21600" />&nbsp;&nbsp;
 </p>
 
 </div>
