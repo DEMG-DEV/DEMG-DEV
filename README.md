@@ -16,24 +16,12 @@ Developer mostly in .NET technologies but also in other languages like Python, J
 
 <div align="center">
 
-<style>
-.img-fb {
-  background-color: #0866FF;
-  width:50px;
-}
-
-.img-em {
-  background-color: #0078D4;
-  width:50px;
-}
-</style>
-
-[<img src="assets/facebook.svg" class="img-fb"></img>](https://www.facebook.com/dev.demg) &nbsp;
+[<img src="assets/facebook.svg" style="background-color: #0866FF;width:50px;"></img>](https://www.facebook.com/dev.demg) &nbsp;
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Retrogemu_) &nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/retrogemu_/) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/david-mendez-guardado/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hack.master.m@gmail.com?subject=Hello%20David,%20From%20Github)
-[<img src="assets/microsoftoutlook.svg" class="img-em"></img>](mailto:demg@outlook.com?subject=Hello%20David,%20From%20Github) &nbsp;
+[<img src="assets/microsoftoutlook.svg" style="background-color: #0078D4;width:50px;"></img>](mailto:demg@outlook.com?subject=Hello%20David,%20From%20Github) &nbsp;
 </div>
 
 ## 💻 My Tech Stack
