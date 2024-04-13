@@ -43,9 +43,9 @@ Developer mostly in .NET technologies but also in other languages like Python, J
 ## 🏆 My Stats
 
 <p>
-    <img height=175 src="https://github-readme-stats.vercel.app/api?username=DEMG-DEV&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=21600" />&nbsp;&nbsp;
-    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEMG-DEV&layout=donut&theme=tokyonight&cache_seconds=21600" />&nbsp;&nbsp;
-    <img height=175 src="https://github-readme-stats.vercel.app/api/wakatime/?username=Retrogemu_&theme=tokyonight&cache_seconds=21600" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api?username=DEMG-DEV&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEMG-DEV&layout=donut&theme=tokyonight" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api/wakatime/?username=Retrogemu_&theme=tokyonight" />&nbsp;&nbsp;
 </p>
 
 </div>
