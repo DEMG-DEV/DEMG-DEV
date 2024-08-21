@@ -6,10 +6,10 @@
 
 ## About
 
-Developer mostly in .NET technologies but also in other languages like Python, Java, Javascript, etc. I'll try to become on a leader in developemnt and teach the new generation this great carrier.
+Developer in .NET technologies, but also work in other languages like Javascript, Java, Python, etc. I'll try to become on a leader in developemnt and teach everyone the magic is development.
 
-- 🔭 I’m currently working on [YouTapIt](https://www.youtapitcard.com/) and [Integra & H. Consulting](https://www.ihconsulting.mx/)
-- 🌱 I’m currently learning **Artificial Intelligence with python**
+- 🔭 I’m currently working on [CourtBet Software Development](https://www.courtbetsd.com/) and [Integra & H. Consulting, as contractor of Masterbrand Cabinets Inc.](https://www.ihconsulting.mx/)
+- 🌱 I’m currently learning **NextJS and Angular**
 - 😄 Pronouns: **Retrogemu_**, **David**
 
 ## 📫 How to reach me
@@ -17,7 +17,7 @@ Developer mostly in .NET technologies but also in other languages like Python, J
 <div align="center">
 
 [<img src="assets/facebook.svg" style="background-color: #0866FF;width:50px;"></img>](https://www.facebook.com/dev.demg) &nbsp;
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Retrogemu_) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Retrogemu) &nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/retrogemu_/) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/david-mendez-guardado/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hack.master.m@gmail.com?subject=Hello%20David,%20From%20Github)
@@ -28,7 +28,7 @@ Developer mostly in .NET technologies but also in other languages like Python, J
 
 <div align="center">
 
-[![My Tech Stack](https://skillicons.dev/icons?i=androidstudio,angular,arduino,azure,bash,bootstrap,c,cs,cpp,css,devto,bots,dotnet,emacs,express,fastapi,flask,git,github,githubactions,html,java,js,jenkins,jquery,linux,md,mysql,nodejs,opencv,postgresql,postman,powershell,py,raspberrypi,sqlite,stackoverflow,vim,visualstudio,vscode&perline=8)](https://skillicons.dev)
+[![My Tech Stack](https://skillicons.dev/icons?i=nextjs,angular,arduino,azure,bash,bootstrap,c,cs,cpp,css,devto,bots,dotnet,emacs,express,fastapi,flask,git,github,githubactions,html,java,js,jenkins,jquery,linux,md,mysql,nodejs,opencv,postgresql,postman,powershell,py,raspberrypi,sqlite,stackoverflow,vim,visualstudio,vscode&perline=8)](https://skillicons.dev)
 
 </div>
 
