@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Retrogemu_Logo.jpeg"></img>
+  <img src="assets/image_1753210431886.jpeg"></img>
 </div>
 
 <div align="center">
