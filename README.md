@@ -27,30 +27,19 @@ Developer en tecnologías .NET con experiencia en JavaScript, Java y Python. Me 
 - Instagram: [retrogemu_](https://www.instagram.com/retrogemu_/)
 - LinkedIn: [David Méndez](https://www.linkedin.com/in/david-mendez-guardado/)
 - Email: hack.master.m@gmail.com · demg@outlook.com
+## 📊 Tech Stack & Estadísticas
 
-## Tech Stack, Blogs & Recursos y Estadísticas
+| **Tecnologías** | **Actividad** |
+|---|---|
+| ![Stack](https://skillicons.dev/icons?i=nextjs,angular,dotnet,cs,js,python,docker,azure,linux,postgresql,mysql&perline=6) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DEMG-DEV&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true) |
 
-<div align="center">
-  <div style="display:flex;flex-wrap:wrap;gap:18px;justify-content:center;max-width:1000px;">
+## 📚 Contenido & Recursos
 
-    <div style="background:linear-gradient(135deg,#0ea5e9,#7c3aed);color:#fff;padding:18px;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,.25);width:320px;">
-      <h3 style="margin:0 0 8px">Tech Stack</h3>
-      <p style="margin:0 0 12px;opacity:0.95">Tecnologías y herramientas que uso con frecuencia.</p>
-      <img src="https://skillicons.dev/icons?i=nextjs,angular,dotnet,cs,js,python,docker,azure,linux,postgresql,mysql&perline=6" alt="Stack" style="width:100%;border-radius:8px;background:rgba(255,255,255,.06);padding:8px;" />
-    </div>
+Comparto guías, artículos y proyectos en:
 
-    <div style="background:linear-gradient(135deg,#06b6d4,#10b981);color:#052e16;padding:18px;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,.12);width:320px;">
-      <h3 style="margin:0 0 8px">Blogs & Recursos</h3>
-      <p style="margin:0 0 12px">Guías, proyectos y artículos técnicos.</p>
-      <p style="margin:0"><a href="https://dev.to/demg_dev"><img src="https://img.shields.io/badge/dev.to-Gu%C3%ADas-0A0A0A?style=for-the-badge&logo=dev.to" alt="dev.to" /></a></p>
-      <p style="margin:8px 0 0"><a href="https://retrogemu-dev.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-Art%C3%ADculos-2962FF?style=for-the-badge&logo=hashnode" alt="Hashnode" /></a></p>
-    </div>
+- [![Dev.to](https://img.shields.io/badge/dev.to-Guías-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/demg_dev) Tutoriales y guías prácticas
+- [![Hashnode](https://img.shields.io/badge/Hashnode-Artículos-2962FF?style=for-the-badge&logo=hashnode)](https://retrogemu-dev.hashnode.dev/) Análisis técnicos y buenas prácticas
 
-    <div style="background:linear-gradient(135deg,#f97316,#ef4444);color:#1b0b00;padding:18px;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,.12);width:320px;">
-      <h3 style="margin:0 0 8px">Estadísticas</h3>
-      <p style="margin:0 0 12px">Actividad y lenguajes más usados en GitHub.</p>
-      <img src="https://github-readme-stats.vercel.app/api?username=DEMG-DEV&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" style="width:100%;border-radius:8px;" />
-    </div>
+## 🔥 Lenguajes Más Usados
 
-  </div>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEMG-DEV&layout=compact&theme=vision-friendly-dark)
